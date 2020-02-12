@@ -64,17 +64,7 @@
 <div class="alert alert-info gw-box" style="padding-top: 8px; padding-bottom: 8px;"><strong><i class="fa fa-sticky-note-o fa-rotate-180"></i> Note</strong><br />For help on the other installation approaches, including using non-Gentoo CDs, please read our <a href="/wiki/Installation_alternatives" title="Installation alternatives">Alternative installation guide</a>.</div>
 <p>We also provide a <a href="/wiki/Gentoo_installation_tips_and_tricks" title="Gentoo installation tips and tricks">Gentoo installation tips and tricks</a> document that might be useful to read as well.
 </p>
-<h3><span class="mw-headline" id="Troubles">Troubles</span></h3>
-<p>If a problem is found in the installation (or in the installation documentation), please visit our <a rel="nofollow" class="external text" href="https://bugs.gentoo.org">bug tracking system</a> and check if the bug is known. If not, please create a bug report for it so we can take care of it. Do not be afraid of the developers who are assigned to the bugs - they (generally) don't eat people.
-</p><p>Note though that, although this document is architecture-specific, it might contain references to other architectures as well. This is due to the fact that large parts of the Gentoo Handbook use installation source text that is shared for all architectures (to avoid duplication of efforts and starvation of development resources). We will try to keep this to a minimum to avoid confusion.
-</p><p>If there is some uncertainty whether or not the problem is a user-problem (some error made despite having read the documentation carefully) or a software-problem (some error we made despite having tested the installation/documentation carefully) everybody is welcome to join the <span style="font-family: monospace; font-size: 95%;"><a rel="nofollow" class="external text" href="irc://irc.gentoo.org/gentoo">#gentoo</a></span> channel on irc.freenode.net. Of course, everyone is welcome otherwise too as our chat channel covers the broad Gentoo spectrum.
-</p><p>Speaking of which, if there are any additional questions regarding Gentoo, check out the <a href="/wiki/FAQ" title="FAQ">Frequently Asked Questions</a> article. There are also <a rel="nofollow" class="external text" href="https://forums.gentoo.org/viewforum.php?f=40">FAQs</a> on the <a rel="nofollow" class="external text" href="https://forums.gentoo.org">Gentoo Forums</a>.
-</p><p><br />
-</p><p><br />
-</p><p><br />
-</p><p><br />
-</p><p><br />
-</p>
+
 <h2><span class="mw-headline" id="Hardware_requirements">Hardware requirements</span></h2>
 <p>Before we start, we first list what hardware requirements are needed to successfully install Gentoo on a amd64 box.
 </p><p><br />
