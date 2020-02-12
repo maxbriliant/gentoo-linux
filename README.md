@@ -1,3 +1,4 @@
+<h1><span class="mw-headline" id="Downloading">Downloading Gentoo</span></h1>
 <h2><span class="mw-headline" id="Introduction">Introduction</span></h2>
 <h3><span class="mw-headline" id="Welcome">Welcome</span></h3>
 <p>First of all, welcome to Gentoo! You are about to enter the world of choices and performance. Gentoo is all about choices. When installing Gentoo, this is made clear several times - users can choose how much they want to compile themselves, how to install Gentoo, what system logger to use, etc.
